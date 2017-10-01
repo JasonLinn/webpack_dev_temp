@@ -1,0 +1,21 @@
+@import './base';
+@import './reset';
+body{
+    background-color:#ccc;
+    position: relative;
+}
+.login-form{
+    
+    padding: 20px;
+    box-sizing: border-box;
+    width: 300px;
+    height: 200px;
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    text-align: center;
+    background-color: #aaa;
+}
